@@ -2,7 +2,7 @@
 
 ### *_About me_* 🙋‍♂️
 
-My name is Gabriel, I'm 22 years old. I was born in Minas Gerais, in the city of Belo Horizonte.
+My name is Gabriel, I'm 24 years old. I was born in Minas Gerais, in the city of Belo Horizonte.
 
 I'm currently studying Software Engineering at Uninter. Programming is my passion and the languages ​​I like the most are Python, HTML and CSS.
 
