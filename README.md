@@ -19,8 +19,7 @@ Feel free to contact me if you need anything.
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielolemos28@gmail.com)  
 
 <-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-### *_Stats_* 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielol28&theme=github-dark&bg_color=000&hide_title=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&text_color=FFF&)
+
 
 <img src="https://i.pinimg.com/originals/dd/ac/cc/ddacccdc40f3a6f8e0731238958e2770.gif" width="465"/>
 
